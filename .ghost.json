@@ -7,7 +7,7 @@
   
   },
   "production": {
-    "apiUrl": "https://Ghost.serveo.net",
+    "apiUrl": "http://localhost:2371/ghost",
     "contentApiKey": "194b2cd4c9644ff9e6910d4230"
   }
 }
