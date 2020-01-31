@@ -4,11 +4,13 @@
 {
   "development": {
     "apiUrl": "http://localhost:2371",
-    "contentApiKey": "194b2cd4c9644ff9e6910d4230"
+    "contentApiKey": "194b2cd4c9644ff9e6910d4230",
+    "version": "v2"
   
   },
   "production": {
     "apiUrl": "https://ghost-wedding.serveo.net",
-    "contentApiKey": "194b2cd4c9644ff9e6910d4230"
+    "contentApiKey": "194b2cd4c9644ff9e6910d4230",
+    "version": "v2"
   }
 }
